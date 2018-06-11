@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#546E7A</color>
+    <color name="colorPrimaryDark">#37474F</color>
+    <color name="colorAccent">#455A64</color>
+
+    <color name="backgroundColorB">#B0BEC5</color>
+
+    <color name="textColorPublishedDate">#757575</color>
+    <color name="textColorTitle">#212121</color>
+
+    <!-- Color for a book with average rating 0  -->
+    <color name="average_rating0">#757575</color>
+    <!-- Color for a book with average rating 1  -->
+    <color name="average_rating1">#DD2C00</color>
+    <!-- Color for a book with average rating 2  -->
+    <color name="average_rating2">#FF5722</color>
+    <!-- Color for a book with average rating 3  -->
+    <color name="average_rating3">#FBC02D</color>
+    <!-- Color for a book with average rating 4  -->
+    <color name="average_rating4">#8BC34A</color>
+    <!-- Color for a book with average rating 5  -->
+    <color name="average_rating5">#33691E</color>
+</resources>
